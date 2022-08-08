@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xyk953651094
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Front-end Development
-- 💞️ I’m looking to collaborate on Front-end Development
-- 📫 How to reach me: xyk953651094@qq.com
+- 👋 你好，我是 @xyk953651094
+- 👀 我对前端开发感兴趣
+- 🌱 我正在学习前端开发
+- 💞️ 正在寻找前端爱好者
+- 📫 联系我: xyk953651094@qq.com
 
 <!---
 XYK953651094/XYK953651094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
