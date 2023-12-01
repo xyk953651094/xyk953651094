@@ -1,12 +1,12 @@
 - 你好，我是 @xyk953651094
-- 文档：https://xyk953651094.github.io/SkyDocuments/
 - 博客：https://xyk953651094.blogspot.com
 - 支持：https://afdian.net/a/xyk953651094
+- 帮助文档：https://xyk953651094.github.io/SkyDocuments/
 - 若 GitHub 访问较慢，可尝试 GitLab 主页：https://gitlab.com/xyk953651094
 - 目录对照
   | 作品名称 | 仓库名称 | - |
   | :-: | :-: | :-: |
-  | 云开文档 | SkyDocuments | - |
+  | 云开帮助文档 | SkyDocuments | - |
   | 云开壁纸 | SkyWallpaper-Electron | - |
   | 云开新标签页 | SkyNewTab-React | SkyNewTab-Vue |
   | 云开诗词新标签页 | SkyNewTab-Poem-React | SkyNewTab-Poem-Angular |
