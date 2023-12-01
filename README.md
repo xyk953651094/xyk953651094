@@ -1,5 +1,6 @@
 - 你好，我是 @xyk953651094
-- 博客：https://xyk953651094.github.io 或者 https://xyk953651094.blogspot.com
+- 文档：https://xyk953651094.github.io/SkyDocuments/
+- 博客：https://xyk953651094.blogspot.com
 - 支持：https://afdian.net/a/xyk953651094
 - 若 GitHub 访问较慢，可尝试 GitLab 主页：https://gitlab.com/xyk953651094
 - 目录对照
