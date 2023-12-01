@@ -5,6 +5,7 @@
 - 目录对照
   | 作品名称 | 仓库名称 | - |
   | :-: | :-: | :-: |
+  | 云开文档 | SkyDocuments | - |
   | 云开壁纸 | SkyWallpaper-Electron | - |
   | 云开新标签页 | SkyNewTab-React | SkyNewTab-Vue |
   | 云开诗词新标签页 | SkyNewTab-Poem-React | SkyNewTab-Poem-Angular |
