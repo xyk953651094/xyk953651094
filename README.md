@@ -6,7 +6,6 @@
   | 云开帮助文档 | SkyDocuments | - |
   | 云开壁纸新标签页 | SkyImageNewTab | - |
   | 云开诗词新标签页 | SkyPoemNewTab | - |
-  | 云开壁纸 | SkyWallpaper-Electron | - |
   | 云开新标签页（旧版） | SkyNewTab-React | SkyNewTab-Vue |
   | 云开诗词新标签页（旧版） | SkyNewTab-Poem-React | SkyNewTab-Poem-Angular |
 - 帮助文档：
